@@ -1,4 +1,4 @@
-# Fix your Bluetooth in Dual-Boot (Finally)
+## Fix your Bluetooth in Dual-Boot (Finally)
 For months, I was trying to find a one consolidated guide to fix Bluetooth across my dualboot as I was a newbie to linux at that time (still am). Yet I never found anything solid, just half baked answers on reddit or an outdated video that barely worked. So I went off to research, used ChatGPT, Reddit, Reddit's Answers AI and many websites after I could finally fix the bluetooth across Dualboot altogether. Then I decided to put it up here so atleast no other newbie like me has to wander off to a number of places only to end up finding half baked answers or years old solutions that don't even work anymore.
 ## The Problem
 Understanding the underlying problem with Dualbooting and bluetooth can already clear up your mind on what needs to be done and why this happens. So in caveman terms, here it is:
